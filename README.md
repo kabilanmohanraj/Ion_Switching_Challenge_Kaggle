@@ -22,4 +22,4 @@ This solution is a **general approach** anyone would adapt to solve this problem
 2. Apply suitable machine learning algorithms to perform the classification
 The respective steps are included in separate notebooks. The algorithms that I tested were the random forest and a hybrid recurrent neural network - an existing implementation (https://doi.org/10.1038/s42003-019-0729-3).
 
-The intuitions for the methods applied here come from this research paper above.
+The intuitions for the methodologies applied here come from this research paper above.
